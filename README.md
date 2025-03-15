@@ -1,1 +1,1 @@
-# A-project-for-the-Forkway-company
+# Creating a dictionary and recording candidate ID lists
